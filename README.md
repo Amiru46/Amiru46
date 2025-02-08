@@ -7,7 +7,7 @@
 <h3 align="left">📊 About Me:</h3>
 <ul>
   <li>🎓 <strong>Computer Science Student</strong></li>
-  <li>🔧 <strong>Tech Stack:</strong> Python, Java, JavaFX, HTML, CSS, Flutter, Spring Boot, React</li>
+  <li>🔧 <strong>Tech Stack:</strong> Python, Java, JavaFX, HTML, CSS, Spring Boot, React</li>
   <li>🚚 <strong>Current Projects:</strong></li>
   <ul>
     <li>Real-Time Ticketing System (Java, Spring Boot)</li>
