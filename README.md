@@ -42,10 +42,6 @@
 
 ---
 
----
-
----
-
 <p align="center">
   Thanks for visiting my profile! 🚀 Feel free to check out my repositories and contribute.<br>
   <em>"Code. Learn. Grow."</em>
