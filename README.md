@@ -11,12 +11,9 @@
   <li>🚚 <strong>Current Projects:</strong></li>
   <ul>
     <li>Real-Time Ticketing System (Java, Spring Boot)</li>
-    <li>Food Donation App (Spring Boot & React)</li>
     <li>Trip Planner App with vendor ads integration</li>
-    <li>Suicide Prevention App using location tracking</li>
     <li>Transportation App with live alerts & tracking</li>
   </ul>
-  <li>💚 <strong>Gaming Fanatic:</strong> The Forest, Days Gone, Call of Duty, PUBG, Valorant</li>
 </ul>
 
 ---
@@ -45,20 +42,7 @@
 
 ---
 
-<h3 align="left">📆 What's Next?</h3>
-<ul>
-  <li>Completing <strong>Brocade's Java Full Course</strong> and <strong>Spring Boot cores</strong> within 20 days.</li>
-  <li>Finishing the <strong>SDGP backend coding</strong>.</li>
-  <li>Building a <strong>personal portfolio</strong> and updating <strong>GitHub repositories</strong>.</li>
-</ul>
-
 ---
-
-<h3 align="left">📅 Schedule:</h3>
-<ul>
-  <li><strong>University:</strong> Mon, Wed, Thu (Informatics Institute of Technology, L5 CS - G14)</li>
-  <li><strong>Work:</strong> 2 hours/day at Kade Mini supermarket, PickMe, and M.N. Aluminium Fabricator</li>
-</ul>
 
 ---
 
