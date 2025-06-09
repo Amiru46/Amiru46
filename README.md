@@ -6,6 +6,12 @@
 ### 🌱 Currently Learning:
 - C#
 
+### 🛠️ Ongoing Project:
+- Automatic number plate recognition with Python (Computer vision)
+- 2D-Java-Game
+- AI Powered Doorbell software
+- Snake Game in C#
+
 ### 👨‍💻 Portfolio:
 - All of my projects are available at:  
   👉 [My Portfolio Website](https://amiru46.github.io/Kalana_Anupama.github.io/)
